@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "200444783432",
+    "project_id": "jit-app-80d57",
+    "storage_bucket": "jit-app-80d57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200444783432:android:4137da61fb06ebaa21617d",
+        "android_client_info": {
+          "package_name": "com.example.jitadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200444783432-tal006n774oj7b4b5gsj5ta81o0rs6to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJvvhQQoFzIL1xnPq8B3oBAz28MpuXxT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200444783432-tal006n774oj7b4b5gsj5ta81o0rs6to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
