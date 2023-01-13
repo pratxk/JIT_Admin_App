@@ -8,10 +8,15 @@
         <entry key="..\:/JITAdminApp/app/src/main/res/drawable/circle_purple.xml" value="0.132" />
         <entry key="..\:/JITAdminApp/app/src/main/res/drawable/circle_red.xml" value="0.132" />
         <entry key="..\:/JITAdminApp/app/src/main/res/drawable/circle_yellow.xml" value="0.132" />
+        <entry key="..\:/JITAdminApp/app/src/main/res/drawable/ic_baseline_picture_as_pdf_24.xml" value="0.1515" />
         <entry key="..\:/JITAdminApp/app/src/main/res/drawable/ic_delete.xml" value="0.132" />
         <entry key="..\:/JITAdminApp/app/src/main/res/drawable/ic_image.xml" value="0.132" />
+        <entry key="..\:/JITAdminApp/app/src/main/res/layout/activity_add_teachers.xml" value="0.22864583333333333" />
         <entry key="..\:/JITAdminApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/JITAdminApp/app/src/main/res/layout/activity_upload_notice.xml" value="0.18697916666666667" />
+        <entry key="..\:/JITAdminApp/app/src/main/res/layout/activity_update_faculty.xml" value="0.1" />
+        <entry key="..\:/JITAdminApp/app/src/main/res/layout/activity_upload_image.xml" value="0.2404040404040404" />
+        <entry key="..\:/JITAdminApp/app/src/main/res/layout/activity_upload_notice.xml" value="0.2" />
+        <entry key="..\:/JITAdminApp/app/src/main/res/layout/activity_upload_pdf.xml" value="0.22864583333333333" />
       </map>
     </option>
   </component>
